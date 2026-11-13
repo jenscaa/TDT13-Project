@@ -1,0 +1,27 @@
+# Data
+data/re_docred/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+*.bin
+*.safetensors
+checkpoints/
+
+# Misc
+.DS_Store
+*.log
+*.tmp
